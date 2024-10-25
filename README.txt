@@ -1,0 +1,1 @@
+This is an interior designing website that offers services and products. I used html and css to make the static website, i integrated bootstrap to the html code since I struggled to link it externally. I made a separate folder for images. And tried to  implement most in the instructions given. However it is still a work in progress.
